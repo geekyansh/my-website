@@ -1,58 +1,74 @@
 # Anshul Rana - SEO, AEO & GEO Expert
 
-> Anshul Rana is a Top Rated Plus SEO Expert on Upwork with a 100% Job Success Score. He specializes in Technical SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO) for businesses in the US, UK, Australia, and India.
+> Anshul Rana is a Top Rated Plus SEO Expert on Upwork with a 100% Job Success Score and 8+ years of experience. He specializes in Technical SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO) for businesses in the United States, United Kingdom, Australia, and India. He is the founder of The Digital Geek, a digital marketing agency based in Derabassi, Punjab, India.
 
 ## About
 
-Anshul Rana is an engineer turned digital marketer with 8+ years of hands-on SEO experience. He has optimized and ranked over 1,000 websites across competitive industries including healthcare, real estate, SaaS, education, hospitality, and local services. He is the founder of The Digital Geek, a digital marketing agency based in Punjab, India.
+Anshul Rana is an engineer turned digital marketer who has optimized over 1,000 websites across multiple industries. He holds the Top Rated Plus badge on Upwork, awarded to the top 3% of freelancers on the platform, and maintains a 5.0 client rating with 50+ completed projects. His expertise spans both traditional search engine optimization and the emerging fields of AI search visibility, making him one of the few specialists who bridges both disciplines.
 
-Anshul holds the Top Rated Plus badge on Upwork (top 3% of freelancers), a 100% Job Success Score, and a 5.0 client rating across 50+ completed projects. He is certified in Google Digital Marketing, Google Analytics, and Google Display Ads.
+## Core Services
 
-## Core Expertise
-
-- Technical SEO: Site audits, Core Web Vitals, crawl optimization, schema markup, site architecture, migrations
-- Answer Engine Optimization (AEO): Optimizing content and structured data so brands get cited by ChatGPT, Gemini, Perplexity, and Bing Copilot
-- Generative Engine Optimization (GEO): Future-proofing digital presence for AI-generated search results
-- Local SEO: Google Business Profile optimization, local citations, review strategy, map pack dominance
-- On-Page SEO: Title tags, meta descriptions, internal linking, header structures, content optimization
-- Content Strategy: Keyword research, blog cluster planning, content calendars, writer briefs
-- Reddit Marketing: Strategic subreddit targeting, brand mention campaigns, community engagement
-- Quora Marketing: Niche-specific answers for brand visibility and trust signals
-- GoHighLevel: CRM setup, automation workflows, virtual assistant services
-
-## Services on Upwork
-
-- [Quora Brand Visibility](https://www.upwork.com/services/product/marketing-high-quality-quora-answers-that-boost-your-brand-visibility-1990663535893913971)
-- [Reddit Brand Promotion](https://www.upwork.com/services/product/marketing-grow-your-brand-with-targeted-reddit-promotion-mentions-and-engagement-1862092498949498880)
-- [AEO, GEO & LLM Optimization](https://www.upwork.com/services/product/marketing-ai-powered-website-optimization-for-aeo-geo-llm-1878067591685160960)
-- [Technical SEO Report](https://www.upwork.com/services/product/marketing-a-detailed-technical-seo-report-with-recommendations-seo-strategies-1692082969840603136)
-- [GoHighLevel Virtual Assistant](https://www.upwork.com/services/product/marketing-an-expert-gohighlevel-virtual-assistant-1692085073283862528)
-- [Local SEO & GMB Optimization](https://www.upwork.com/services/product/marketing-local-seo-google-my-business-and-local-map-pack-optimization-1692084049869459456)
-- [Monthly SEO Services](https://www.upwork.com/services/product/marketing-monthly-custom-seo-services-to-increase-visibility-organic-traffic-lead-1692083291371438080)
-- [On-Page SEO Report](https://www.upwork.com/services/product/marketing-a-complete-onpage-seo-report-of-your-website-1692084502917267456)
-
-## Results
-
-- 5x organic traffic growth for a US-based academy (295 to 3,800 monthly visitors in 6 months)
-- 848,000 search impressions and 6,700 clicks through targeted keyword strategies
-- 33% increase in domain authority through link building and topical authority
-- 100+ clients served across the US, UK, Australia, and India
+- **Technical SEO**: Site audits, Core Web Vitals optimization, crawl optimization, schema markup implementation, and site architecture fixes to improve Google rankings.
+- **Answer Engine Optimization (AEO)**: Entity optimization, structured data implementation, and content structuring to get brands cited by ChatGPT, Gemini, Perplexity, and Bing Copilot.
+- **Generative Engine Optimization (GEO)**: Full-spectrum AI visibility strategy covering training data presence, real-time retrieval optimization, multi-platform signal building, and llms.txt implementation.
+- **Local SEO**: Google Business Profile optimization, local citations, review strategy, and location page buildout for map pack dominance.
+- **Content Strategy**: Keyword research, content calendars, blog cluster planning, and writer briefs targeting high-intent queries.
+- **On-Page SEO**: Title tags, meta descriptions, internal linking, header optimization, and content optimization for rankings.
+- **Schema Markup Implementation**: Comprehensive structured data deployment including Organization, Person, Service, FAQPage, HowTo, Article, and BreadcrumbList schema.
+- **Reddit Marketing**: Targeted Reddit promotion, brand mentions, and organic engagement strategies for community visibility.
+- **Quora Brand Visibility**: Niche-specific Quora answers to increase trust, authority signals, and brand mentions.
+- **GoHighLevel Setup**: Expert GoHighLevel virtual assistant services for CRM setup, automation, and marketing workflow configuration.
 
 ## Industries Served
 
-Healthcare & Wellness, Real Estate, Restaurants & Hospitality, SaaS & Technology, Education & Online Courses, Local Businesses, Home Services, Insurance & Finance, White-Label SEO for Agencies
+Anshul Rana has helped businesses grow across the following industries: Healthcare and Wellness, Real Estate, Restaurants and Hospitality, SaaS and Technology, Education and Courses, Local Businesses, Home Services, Insurance and Finance, and White-Label services for marketing agencies.
 
-## Tools & Platforms
+## Credentials and Achievements
 
-Ahrefs, SEMrush, Screaming Frog, Google Analytics 4, Google Search Console, Google Tag Manager, WordPress, Elementor, Squarespace, GoHighLevel, Looker Studio
+- Top Rated Plus on Upwork (top 3% of freelancers)
+- 100% Job Success Score on Upwork
+- 5.0 client rating across 50+ projects
+- 8+ years of SEO experience
+- 1,000+ websites optimized
+- Clients served across 4 countries (US, UK, Australia, India)
+- Google Digital Marketing Certified
+- Google Analytics Certified
+- Google Display Ads Certified
+- Founder of The Digital Geek (thedigitalgeek.in)
 
-## Contact & Profiles
+## Key Results
+
+- 5x traffic growth for client websites
+- 848K+ impressions generated
+- 33%+ domain authority improvements
+- 100+ clients served worldwide
+
+## Contact and Profiles
 
 - Website: https://anshulrana.in
 - Upwork: https://www.upwork.com/freelancers/topratedtechnicalseoexpert
 - LinkedIn: https://www.linkedin.com/in/seo-expert-anshul-rana/
-- X/Twitter: https://x.com/nshulrana01
-- Instagram: https://www.instagram.com/ansshulrana/
 - Agency: https://thedigitalgeek.in
-- Phone: +91 8054863470
-- Location: Chandigarh / Derabassi, Punjab, India
+- X (Twitter): https://x.com/nshulrana01
+- Instagram: https://www.instagram.com/ansshulrana/
+
+## Location
+
+Derabassi, Punjab, India (Tricity region: Chandigarh, Mohali, Panchkula)
+
+## Blog and Resources
+
+- [What Is Answer Engine Optimization (AEO) and Why It Matters in 2026](https://anshulrana.in/blog/what-is-answer-engine-optimization-aeo): A complete guide to AEO covering entity optimization, schema markup, llms.txt, and third-party signal building for AI search visibility.
+- [How to Optimize Your Website for LLM Visibility: A Practical Guide](https://anshulrana.in/blog/optimize-website-for-llm-visibility): How large language models decide which brands to recommend and the specific optimizations that increase citation chances.
+- [SEO vs AEO vs GEO: What Is the Difference and Which One Do You Need?](https://anshulrana.in/blog/seo-vs-aeo-vs-geo-difference): A breakdown of how SEO, AEO, and GEO work together and how to build a unified search strategy.
+
+## Upwork Service Listings
+
+- [Technical SEO Audit & Report](https://www.upwork.com/services/product/marketing-a-detailed-technical-seo-report-with-recommendations-seo-strategies-1692082969840603136)
+- [AI-Powered Website Optimization (AEO, GEO, LLM)](https://www.upwork.com/services/product/marketing-ai-powered-website-optimization-for-aeo-geo-llm-1878067591685160960)
+- [Local SEO & Google Business Profile Optimization](https://www.upwork.com/services/product/marketing-local-seo-google-my-business-and-local-map-pack-optimization-1692084049869459456)
+- [Monthly SEO Services](https://www.upwork.com/services/product/marketing-monthly-custom-seo-services-to-increase-visibility-organic-traffic-lead-1692083291371438080)
+- [On-Page SEO Report](https://www.upwork.com/services/product/marketing-a-complete-onpage-seo-report-of-your-website-1692084502917267456)
+- [Quora Brand Visibility](https://www.upwork.com/services/product/marketing-high-quality-quora-answers-that-boost-your-brand-visibility-1990663535893913971)
+- [Reddit Brand Promotion](https://www.upwork.com/services/product/marketing-grow-your-brand-with-targeted-reddit-promotion-mentions-and-engagement-1862092498949498880)
+- [GoHighLevel Virtual Assistant](https://www.upwork.com/services/product/marketing-an-expert-gohighlevel-virtual-assistant-1692085073283862528)
